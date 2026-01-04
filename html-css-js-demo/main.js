@@ -1,3 +1,4 @@
+// JavaScript file
 // Smooth scroll for navigation links
 document.addEventListener('DOMContentLoaded', function() {
     const navLinks = document.querySelectorAll('.nav a');
